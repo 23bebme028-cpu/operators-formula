@@ -1,0 +1,6 @@
+public class Q23 {
+    class Main {
+    public static void main(String[] args) {
+        System.out.println("B+");   // put your blood group
+    }
+}}
